@@ -1,0 +1,22 @@
+{
+  "name": "webpacktitle",
+  "version": "1.0.1",
+  "description": "webpack练习",
+  "main": "app.js",
+  "scripts": {
+    "test": "lorem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangshiyou/webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "张石友",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangshiyou/webpack/issues"
+  },
+  "homepage": "https://github.com/zhangshiyou/webpack#readme"
+}
